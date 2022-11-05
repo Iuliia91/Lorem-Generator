@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Lorem-Generator/static/css/main.b06f8a47.chunk.css",
-    "main.js": "/Lorem-Generator/static/js/main.7c8b4b2c.chunk.js",
-    "main.js.map": "/Lorem-Generator/static/js/main.7c8b4b2c.chunk.js.map",
+    "main.css": "/Lorem-Generator/static/css/main.b56aaf5e.chunk.css",
+    "main.js": "/Lorem-Generator/static/js/main.c24c6682.chunk.js",
+    "main.js.map": "/Lorem-Generator/static/js/main.c24c6682.chunk.js.map",
     "runtime-main.js": "/Lorem-Generator/static/js/runtime-main.eaf42075.js",
     "runtime-main.js.map": "/Lorem-Generator/static/js/runtime-main.eaf42075.js.map",
     "static/js/2.cad5d5ac.chunk.js": "/Lorem-Generator/static/js/2.cad5d5ac.chunk.js",
     "static/js/2.cad5d5ac.chunk.js.map": "/Lorem-Generator/static/js/2.cad5d5ac.chunk.js.map",
     "index.html": "/Lorem-Generator/index.html",
-    "precache-manifest.a30e55493a09eee1b987ca196cd748de.js": "/Lorem-Generator/precache-manifest.a30e55493a09eee1b987ca196cd748de.js",
+    "precache-manifest.7e381e5bff934b7ae1fd0255e10e1d41.js": "/Lorem-Generator/precache-manifest.7e381e5bff934b7ae1fd0255e10e1d41.js",
     "service-worker.js": "/Lorem-Generator/service-worker.js",
-    "static/css/main.b06f8a47.chunk.css.map": "/Lorem-Generator/static/css/main.b06f8a47.chunk.css.map",
+    "static/css/main.b56aaf5e.chunk.css.map": "/Lorem-Generator/static/css/main.b56aaf5e.chunk.css.map",
     "static/js/2.cad5d5ac.chunk.js.LICENSE.txt": "/Lorem-Generator/static/js/2.cad5d5ac.chunk.js.LICENSE.txt",
     "static/media/close.svg": "/Lorem-Generator/static/media/close.e5ab169f.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.eaf42075.js",
     "static/js/2.cad5d5ac.chunk.js",
-    "static/css/main.b06f8a47.chunk.css",
-    "static/js/main.7c8b4b2c.chunk.js"
+    "static/css/main.b56aaf5e.chunk.css",
+    "static/js/main.c24c6682.chunk.js"
   ]
 }

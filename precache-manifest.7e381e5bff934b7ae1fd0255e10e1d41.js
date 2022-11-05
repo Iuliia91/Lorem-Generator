@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9544e7853916b23758968c6ca2b3afe",
+    "revision": "5fd7f5ee60d28d0baa576d22e78b145c",
     "url": "/Lorem-Generator/index.html"
   },
   {
-    "revision": "37775337cdac87741914",
-    "url": "/Lorem-Generator/static/css/main.b06f8a47.chunk.css"
+    "revision": "ec407b81fbf46ed20910",
+    "url": "/Lorem-Generator/static/css/main.b56aaf5e.chunk.css"
   },
   {
     "revision": "c8f99de3883671709baa",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lorem-Generator/static/js/2.cad5d5ac.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37775337cdac87741914",
-    "url": "/Lorem-Generator/static/js/main.7c8b4b2c.chunk.js"
+    "revision": "ec407b81fbf46ed20910",
+    "url": "/Lorem-Generator/static/js/main.c24c6682.chunk.js"
   },
   {
     "revision": "a40c71d2d8766380229b",
